@@ -4,6 +4,7 @@ This automated robot uses image processing techniques for flame detection and au
 
 # Current Progress:
 > Mechanical design - DONE
+
 > Flame detection script - DONE
 
 # Future Scope:
